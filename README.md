@@ -1,1 +1,1 @@
-https://pelebahalag/test2/index.html
+https://pelebahalag.github.io/test2/
